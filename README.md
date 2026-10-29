@@ -136,19 +136,18 @@ Aspiring Data Analyst | Data Science Learner | Python & SQL Enthusiast
 
 ---
 
+
 ## 📫 Connect With Me
 
 <p align="left">
-
-<a href="linkedin.com/in/umesh-pandhare-7424622b3">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:Umeshpandhare29@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="https://www.linkedin.com/in/umesh-pandhare-7424622b3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:umeshpandhare29@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
+
 
 ---
 
