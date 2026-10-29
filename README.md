@@ -140,7 +140,7 @@ Aspiring Data Analyst | Data Science Learner | Python & SQL Enthusiast
 
 <p align="left">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/umesh-pandhare-7424622b3/)">
+<a href="linkedin.com/in/umesh-pandhare-7424622b3">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
