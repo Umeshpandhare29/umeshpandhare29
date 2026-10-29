@@ -143,8 +143,8 @@ Aspiring Data Analyst | Data Science Learner | Python & SQL Enthusiast
   <a href="https://www.linkedin.com/in/umesh-pandhare-7424622b3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:umeshpandhare29@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+ <a href="mailto:umeshpandhare29@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
